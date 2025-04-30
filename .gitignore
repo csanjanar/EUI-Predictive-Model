@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.env
+.venv/
+venv/
+# OS junk
+.DS_Store
+Thumbs.db
+# Temp files
+*.tmp
+*.swp
+# Data (if you choose not to track it - use with caution!)
+# data/*
+
