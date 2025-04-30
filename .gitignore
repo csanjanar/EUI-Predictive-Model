@@ -13,4 +13,4 @@ Thumbs.db
 *.swp
 # Data (if you choose not to track it - use with caution!)
 # data/*
-
+notebooks/.ipynb_checkpoints/
