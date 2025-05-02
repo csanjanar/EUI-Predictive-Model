@@ -1,7 +1,7 @@
 # 🏢 Building Energy Efficiency Analysis Using Linear Regression
 
 **Predicting and Understanding Energy Use Intensity (EUI) in Singapore's Commercial Buildings**
-> with data provided by: [Data.gov.sg | Building and Construction Authority (BCA)](https://data.gov.sg/collections/22/datasets/d_e86d8a219d0936dbb321ade068a381da/view)
+> Data: [Data.gov.sg | Building and Construction Authority (BCA)](https://data.gov.sg/collections/22/datasets/d_e86d8a219d0936dbb321ade068a381da/view)
 
     Data Science Midterm Coursework
 
