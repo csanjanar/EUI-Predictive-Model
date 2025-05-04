@@ -5,15 +5,15 @@
 
 `Data Processing · EDA · Data Visualization · Feature Engineering · Linear Regression · Sustainability Insights`
 
-[![License: SGODL](https://img.shields.io/badge/Data%20License-Singapore%20Open%20Data%20License-green)](https://beta.data.gov.sg/)
-> [Data.gov.sg | Building and Construction Authority (BCA)](https://data.gov.sg/collections/22/datasets/d_e86d8a219d0936dbb321ade068a381da/view)
+[Data.gov.sg | Building and Construction Authority (BCA)](https://data.gov.sg/collections/22/datasets/d_e86d8a219d0936dbb321ade068a381da/view)
+> [![License: SGODL](https://img.shields.io/badge/Data%20License-Singapore%20Open%20Data%20License-green)](https://beta.data.gov.sg/)
 
 [![Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python&logoColor=white)](https://www.python.org/)  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
 
 ---
 
